@@ -1,1 +1,1 @@
-# GoRestaurantApp
+# GoRestaurantApp.
