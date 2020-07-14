@@ -1,2 +1,2 @@
 # GoRestaurantApp
-development application
+development application.
