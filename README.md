@@ -1,1 +1,2 @@
-# GoRestaurantApp.
+# GoRestaurantApp
+development application.
